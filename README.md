@@ -10,7 +10,7 @@ Dataset:CellImage
 
 ## Neural Network Model
 
-![NN model exp-4](https://user-images.githubusercontent.com/75235022/194769674-46c581f1-3aa8-4246-95c5-dbc5141d459d.png)
+![image](https://user-images.githubusercontent.com/69795479/194772218-6d3bd5db-3516-4776-bbb9-160a2642d1fe.png)
 
 
 ## DESIGN STEPS
@@ -27,10 +27,9 @@ Fit the model using the augmented images
 
 ## PROGRAM
 ```python
-Name:A.Fawziya
-Reg No: 212220230017
+Name:Akash S
+Reg No: 212220040005
 python3
-!git clone https://github.com/sherwin-roger/cellimage.git
 
 import tensorflow as tf
 import pandas as pd
